@@ -6,4 +6,4 @@ Repository containing time series data mining codes.
 Time series classification using Dynamic Time Warping with different distance measures and K-Nearest Neighbor.
 Different distance measures with Dynamic Time Warping produce different classification accuracy as well as differ in the time taken for the entire classification process.
 
-Euclidean distance performs the best wrto. performance accuracy, but Normalized Euclidean distance performs the better when it comes to time taken for the classification to take place. 
+Euclidean distance performs the best with respect to performance accuracy, but Normalized Euclidean distance performs better when it comes to time taken for the classification to take place. 
